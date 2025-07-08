@@ -1,7 +1,7 @@
 # Fake News Detection
 
 This repository contains:
-- A Python notebook (`Project.ipynb`) for detecting fake news using Logistic Regression, Support Vector Machine, Neural Networks, Bagging, Decision Trees.
+- A Python notebook (`Fake_News_Detection.ipynb`) for detecting fake news using Logistic Regression, Support Vector Machine, Neural Networks, Bagging, Decision Trees.
 - A research paper (`Fake_News_Detection_Research_Paper.pdf`) explaining the methodology, results, and conclusions.
 
 ## Contents
